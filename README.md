@@ -1,2 +1,2 @@
 # AngryBirdsStage3
-Angry Birds Stage 3
+Stage 3 Angry Birds: Introducing Constraint
